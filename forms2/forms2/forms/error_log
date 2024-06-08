@@ -1,0 +1,18 @@
+[08-Jun-2024 10:35:35 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 21
+[08-Jun-2024 10:35:35 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 28
+[08-Jun-2024 10:35:35 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 62
+[08-Jun-2024 10:36:43 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 21
+[08-Jun-2024 10:36:43 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 28
+[08-Jun-2024 10:36:43 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 62
+[08-Jun-2024 10:37:14 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 21
+[08-Jun-2024 10:37:14 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 28
+[08-Jun-2024 10:37:14 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 62
+[08-Jun-2024 10:37:30 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 21
+[08-Jun-2024 10:37:30 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 28
+[08-Jun-2024 10:37:30 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 62
+[08-Jun-2024 10:38:13 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 21
+[08-Jun-2024 10:38:13 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 28
+[08-Jun-2024 10:38:13 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 62
+[08-Jun-2024 10:39:34 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 21
+[08-Jun-2024 10:39:34 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 28
+[08-Jun-2024 10:39:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/thenheaf/new.advanceexcel.in/Aryan/forms/db.php on line 62
